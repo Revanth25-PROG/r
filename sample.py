@@ -21,5 +21,3 @@ plot_tree(
     rounded=True,
     fontsize=11
 )
-
-plt.show()
